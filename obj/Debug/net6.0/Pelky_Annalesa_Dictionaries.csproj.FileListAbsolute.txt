@@ -1,0 +1,14 @@
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\bin\Debug\net6.0\Pelky_Annalesa_Dictionaries.exe
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\bin\Debug\net6.0\Pelky_Annalesa_Dictionaries.deps.json
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\bin\Debug\net6.0\Pelky_Annalesa_Dictionaries.runtimeconfig.json
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\bin\Debug\net6.0\Pelky_Annalesa_Dictionaries.dll
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\bin\Debug\net6.0\Pelky_Annalesa_Dictionaries.pdb
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\Pelky_Annalesa_Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\Pelky_Annalesa_Dictionaries.AssemblyInfoInputs.cache
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\Pelky_Annalesa_Dictionaries.AssemblyInfo.cs
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\Pelky_Annalesa_Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\Pelky_Annalesa_Dictionaries.dll
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\refint\Pelky_Annalesa_Dictionaries.dll
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\Pelky_Annalesa_Dictionaries.pdb
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\Pelky_Annalesa_Dictionaries.genruntimeconfig.cache
+C:\Users\AnnalesaPelky\source\repos\Pelky_Annalesa_Dictionaries\obj\Debug\net6.0\ref\Pelky_Annalesa_Dictionaries.dll
